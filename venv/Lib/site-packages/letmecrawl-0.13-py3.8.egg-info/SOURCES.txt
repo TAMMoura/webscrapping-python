@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+letmecrawl/__init__.py
+letmecrawl/letmecrawl.py
+letmecrawl/models.py
+letmecrawl/request.py
+letmecrawl/sources.json
+letmecrawl/sources.py
+letmecrawl.egg-info/PKG-INFO
+letmecrawl.egg-info/SOURCES.txt
+letmecrawl.egg-info/dependency_links.txt
+letmecrawl.egg-info/requires.txt
+letmecrawl.egg-info/top_level.txt
